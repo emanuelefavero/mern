@@ -134,8 +134,8 @@ dist
 
 # react production
 /build
-/frontend/build
+/client/build
 
 # react development
 /coverage
-/frontend/coverage
+/client/coverage

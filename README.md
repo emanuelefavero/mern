@@ -14,5 +14,5 @@ _Learn more about MERN stack [here](https://www.mongodb.com/languages/mern-stack
 1. Clone the repo
 2. Add a .env file in the root directory with your MONGODB_URI variable
 3. Run `npm install` in the root directory
-4. Run `npm install` in the frontend directory
+4. Run `npm install` in the client directory
 5. Run `npm run dev` in the root directory
