@@ -128,3 +128,14 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# misc
+.DS_Store
+
+# react production
+/build
+/frontend/build
+
+# react development
+/coverage
+/frontend/coverage
